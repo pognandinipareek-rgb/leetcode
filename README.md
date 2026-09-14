@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0007-reverse-integer) |
+| [0836-rectangle-overlap](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0836-rectangle-overlap) |
 ## Array
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
