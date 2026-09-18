@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
 |  |
@@ -100,4 +101,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0090-subsets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
