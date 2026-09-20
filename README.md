@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0560-subarray-sum-equals-k](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
