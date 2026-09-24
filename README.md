@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Hash Table
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0043-multiply-strings) |
 | [0509-fibonacci-number](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0836-rectangle-overlap) |
 ## Array
