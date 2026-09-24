@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -101,11 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
