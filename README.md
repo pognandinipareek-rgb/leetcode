@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0037-sudoku-solver) |
+| [0133-clone-graph](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0133-clone-graph) |
 | [0560-subarray-sum-equals-k](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -170,4 +171,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
