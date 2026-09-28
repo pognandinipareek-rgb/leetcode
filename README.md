@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0043-multiply-strings) |
 | [0509-fibonacci-number](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0836-rectangle-overlap) |
+| [1627-graph-connectivity-with-threshold](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0090-subsets-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1627-graph-connectivity-with-threshold](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0785-is-graph-bipartite) |
+| [1627-graph-connectivity-with-threshold](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0785-is-graph-bipartite) |
+## Number Theory
+|  |
+| ------- |
+| [1627-graph-connectivity-with-threshold](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 <!---LeetCode Topics End-->
