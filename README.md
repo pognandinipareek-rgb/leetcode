@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0043-multiply-strings) |
+| [0069-sqrtx](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0069-sqrtx) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0836-rectangle-overlap) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0450-delete-node-in-a-bst) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
