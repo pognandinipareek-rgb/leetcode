@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0078-subsets) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0090-subsets-ii) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0052-n-queens-ii) |
 ## Dancing Links
 |  |
