@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0133-clone-graph) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0042-trapping-rain-water) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0074-search-a-2d-matrix) |
