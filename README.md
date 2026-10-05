@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0808-soup-servings) |
 | [0836-rectangle-overlap](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0836-rectangle-overlap) |
 | [1627-graph-connectivity-with-threshold](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Array
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1627-graph-connectivity-with-threshold](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0836-rectangle-overlap) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -233,10 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1627-graph-connectivity-with-threshold](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Sorting
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0147-insertion-sort-list) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Design
 |  |
 | ------- |
