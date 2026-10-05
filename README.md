@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0344-reverse-string) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0067-add-binary) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3498-reverse-degree-of-a-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0069-sqrtx) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0509-fibonacci-number) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0090-subsets-ii) |
 ## Linked List
