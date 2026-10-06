@@ -226,12 +226,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0133-clone-graph) |
 | [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0133-clone-graph) |
 | [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0785-is-graph-bipartite) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0100-same-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0100-same-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Newton's Method
 |  |
