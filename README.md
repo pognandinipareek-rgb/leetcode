@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
 ## Sliding Window
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
 | [1627-graph-connectivity-with-threshold](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -224,11 +227,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0133-clone-graph) |
+| [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0133-clone-graph) |
+| [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
@@ -238,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1627-graph-connectivity-with-threshold](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 ## Graph Coloring
@@ -258,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0147-insertion-sort-list) |
+| [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Design
 |  |
