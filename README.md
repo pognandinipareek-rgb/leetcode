@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
 | [1627-graph-connectivity-with-threshold](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Binary Search
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0044-wildcard-matching) |
 | [0678-valid-parenthesis-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0147-insertion-sort-list) |
 | [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Design
 |  |
 | ------- |
