@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2315-count-asterisks](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2315-count-asterisks) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3498-reverse-degree-of-a-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Search
 |  |
@@ -363,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
