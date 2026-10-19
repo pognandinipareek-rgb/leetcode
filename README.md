@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1871-jump-game-vii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1871-jump-game-vii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2315-count-asterisks](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2315-count-asterisks) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0567-permutation-in-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0567-permutation-in-string) |
+| [1871-jump-game-vii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1871-jump-game-vii) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1871-jump-game-vii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1871-jump-game-vii) |
 ## Geometry
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0808-soup-servings](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0808-soup-servings) |
+| [1871-jump-game-vii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Recursion
 |  |
