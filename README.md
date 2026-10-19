@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
 | [1306-jump-game-iii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1306-jump-game-iii) |
 | [1627-graph-connectivity-with-threshold](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Matrix
 |  |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0147-insertion-sort-list) |
 | [0406-queue-reconstruction-by-height](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2784-check-if-array-is-good) |
