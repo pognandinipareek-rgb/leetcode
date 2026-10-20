@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
 | [1306-jump-game-iii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1340-jump-game-v) |
 | [1627-graph-connectivity-with-threshold](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0808-soup-servings](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0808-soup-servings) |
+| [1340-jump-game-v](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Recursion
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0147-insertion-sort-list) |
 | [0406-queue-reconstruction-by-height](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
+| [1340-jump-game-v](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1340-jump-game-v) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
