@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2126-destroying-asteroids](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bracket Sequences
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1340-jump-game-v) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2784-check-if-array-is-good) |
