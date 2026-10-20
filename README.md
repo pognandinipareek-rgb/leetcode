@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0836-rectangle-overlap) |
 | [1627-graph-connectivity-with-threshold](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Array
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3093-longest-common-suffix-queries) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
