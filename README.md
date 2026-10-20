@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3161-block-placement-queries](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3161-block-placement-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -390,11 +392,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3161-block-placement-queries](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3161-block-placement-queries](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3161-block-placement-queries) |
 ## Queue
 |  |
 | ------- |
@@ -404,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3093-longest-common-suffix-queries) |
+## Ordered Set
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
