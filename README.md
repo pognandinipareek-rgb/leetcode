@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0289-game-of-life) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2961-double-modular-exponentiation](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2961-double-modular-exponentiation) |
 | [3498-reverse-degree-of-a-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0836-rectangle-overlap) |
 | [1627-graph-connectivity-with-threshold](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2961-double-modular-exponentiation](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2961-double-modular-exponentiation) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Array
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2961-double-modular-exponentiation](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2961-double-modular-exponentiation) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3161-block-placement-queries) |
