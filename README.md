@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0567-permutation-in-string) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3886-sum-of-sortable-integers](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3161-block-placement-queries](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3161-block-placement-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
 | ------- |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3886-sum-of-sortable-integers](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Design
 |  |
