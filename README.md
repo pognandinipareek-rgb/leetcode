@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0067-add-binary) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0090-subsets-ii) |
