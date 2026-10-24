@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1871-jump-game-vii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2315-count-asterisks](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2315-count-asterisks) |
+| [2409-count-days-spent-together](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2409-count-days-spent-together) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0836-rectangle-overlap) |
 | [1627-graph-connectivity-with-threshold](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2409-count-days-spent-together](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2409-count-days-spent-together) |
 | [2961-double-modular-exponentiation](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2961-double-modular-exponentiation) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3886-sum-of-sortable-integers) |
