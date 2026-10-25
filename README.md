@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0560-subarray-sum-equals-k](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
+| [1254-number-of-closed-islands](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1340-jump-game-v) |
 | [1627-graph-connectivity-with-threshold](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0289-game-of-life) |
+| [1254-number-of-closed-islands](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0133-clone-graph) |
 | [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1306-jump-game-iii) |
 ## Graph Theory
 |  |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1627-graph-connectivity-with-threshold](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 ## Graph Coloring
 |  |
