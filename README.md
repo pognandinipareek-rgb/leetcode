@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0289-game-of-life) |
 | [1254-number-of-closed-islands](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1306-jump-game-iii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1306-jump-game-iii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1627-graph-connectivity-with-threshold](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Coloring
 |  |
 | ------- |
