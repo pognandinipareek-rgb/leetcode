@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0090-subsets-ii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0289-game-of-life) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0044-wildcard-matching) |
+| [0063-unique-paths-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0509-fibonacci-number) |
