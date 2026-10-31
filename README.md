@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0289-game-of-life) |
 | [1254-number-of-closed-islands](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3665-twisted-mirror-path-count](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Recursion
 |  |
 | ------- |
