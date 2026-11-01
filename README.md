@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0069-sqrtx) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -479,4 +481,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
