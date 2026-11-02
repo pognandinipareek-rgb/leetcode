@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0289-game-of-life) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0509-fibonacci-number) |
