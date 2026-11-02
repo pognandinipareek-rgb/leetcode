@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0133-clone-graph) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0460-lfu-cache) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0460-lfu-cache) |
 ## Randomized
 |  |
 | ------- |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0460-lfu-cache) |
 ## Shortest Path
 |  |
 | ------- |
