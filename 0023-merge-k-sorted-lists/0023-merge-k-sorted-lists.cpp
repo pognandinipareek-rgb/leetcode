@@ -4,39 +4,37 @@ public:
         if (lists.empty()) {
             return nullptr;
         }
-        return mergeKListsHelper(lists, 0, lists.size() - 1);
-    }
-    
-    ListNode* mergeKListsHelper(vector<ListNode*>& lists, int start, int end) {
-        if (start == end) {
-            return lists[start];
-        }
-        if (start + 1 == end) {
-            return merge(lists[start], lists[end]);
-        }
-        int mid = start + (end - start) / 2;
-        ListNode* left = mergeKListsHelper(lists, start, mid);
-        ListNode* right = mergeKListsHelper(lists, mid + 1, end);
-        return merge(left, right);
-    }
-    
-    ListNode* merge(ListNode* l1, ListNode* l2) {
-        ListNode* dummy = new ListNode(0);
-        ListNode* curr = dummy;
-        
-        while (l1 && l2) {
-            if (l1->val < l2->val) {
-                curr->next = l1;
-                l1 = l1->next;
-            } else {
-                curr->next = l2;
-                l2 = l2->next;
+
+        while (lists.size() > 1) {
+            vector<ListNode*> temp;
+            for (size_t i = 0; i < lists.size(); i += 2) {
+                ListNode* l1 = lists[i];
+                ListNode* l2 = i + 1 < lists.size() ? lists[i + 1] : nullptr;
+                temp.push_back(mergeLists(l1, l2));
             }
-            curr = curr->next;
+            lists = move(temp);
         }
-        
-        curr->next = l1 ? l1 : l2;
-        
-        return dummy->next;
+
+        return lists[0];        
     }
+
+private:
+    ListNode* mergeLists(ListNode* l1, ListNode* l2) {
+        ListNode dummy;
+        ListNode* node = &dummy;
+
+        while (l1 && l2) {
+            if (l1->val > l2->val) {
+                node->next = l2;
+                l2 = l2->next;
+            } else {
+                node->next = l1;
+                l1 = l1->next;
+            }
+            node = node->next;
+        }
+
+        node->next = l1 ? l1 : l2;
+        return dummy.next;
+    }    
 };
