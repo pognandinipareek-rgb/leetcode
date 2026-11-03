@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0133-clone-graph) |
 | [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
@@ -433,15 +434,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0100-same-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0100-same-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Newton's Method
