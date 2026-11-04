@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0344-reverse-string) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0147-insertion-sort-list) |
 | [0406-queue-reconstruction-by-height](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
