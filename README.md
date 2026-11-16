@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0493-reverse-pairs](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0721-accounts-merge) |
 | [1254-number-of-closed-islands](https://github.com/pognandinipareek-rgb/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0493-reverse-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3161-block-placement-queries](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3161-block-placement-queries) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0493-reverse-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0493-reverse-pairs) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -484,12 +488,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3161-block-placement-queries](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pognandinipareek-rgb/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3161-block-placement-queries](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3161-block-placement-queries) |
 ## Queue
@@ -504,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0493-reverse-pairs) |
 | [3161-block-placement-queries](https://github.com/pognandinipareek-rgb/leetcode/tree/master/3161-block-placement-queries) |
 ## Doubly-Linked List
 |  |
@@ -522,4 +529,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0141-linked-list-cycle) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/pognandinipareek-rgb/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
